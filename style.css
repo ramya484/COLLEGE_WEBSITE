@@ -452,6 +452,7 @@ h2 {
     padding: 20px;
     text-align: left;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    color:#c8d9f7;
 }
 
 .department-card:hover {
