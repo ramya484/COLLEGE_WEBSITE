@@ -464,6 +464,13 @@ h2 {
     line-height: 1.6;
 }
 
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
 .contact-card {
     background-color: #fff;
     border-radius: 10px;
@@ -474,11 +481,6 @@ h2 {
     padding: 20px;
 }
 
-.contact-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-}
+
 
 
