@@ -463,6 +463,11 @@ h2 {
     color: #666;
     line-height: 1.6;
 }
+#r5{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .contact-container {
     display: flex;
