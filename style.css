@@ -469,8 +469,16 @@ h2 {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 400px; 
-    margin: 0 auto; 
+    margin: 0 auto;
     text-align: center;
     padding: 20px;
 }
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
 
